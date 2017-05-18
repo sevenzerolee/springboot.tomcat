@@ -1,0 +1,2 @@
+
+本工程搭建一个spring boot项目,并且可以打成war包部署到tomcat中运行
